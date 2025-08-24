@@ -22,10 +22,10 @@ A mão é controlada por um aplicativo de celular, onde é possível executar ge
 
 O projeto é separado em 4 módulos:
 
--   [Estrutura da mão](###Estrutura)
--   [Circuito eletrônico](###Circuito)
--   [Software do controlador (ESP32)](###Controlador)
--   [Software do App Mobile](###App)
+-   [Estrutura da mão](#Estrutura)
+-   [Circuito eletrônico](#Circuito)
+-   [Software do controlador (ESP32)](#Controlador)
+-   [Software do App Mobile](#App)
 
 ### Estrutura
 
