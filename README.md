@@ -12,6 +12,11 @@ Um ESP32 controla 5 servo motores que tensiona e relaxam um fio de pesca para re
 
 A mão é controlada por um aplicativo de celular, onde é possível executar gestos pré definidos, criar seus próprios gestos e utilizar comandos de voz para controlar a mão.
 
+<div align="center">
+  <img src="https://github.com/mateus-sartorio/ecommerce-app/blob/main/assets/images/pic1.png" alt="" width="30%"/>
+  <img src="https://github.com/mateus-sartorio/ecommerce-app/blob/main/assets/images/pic2.png" alt="" width="30%"/>
+</div>
+
 ## Módulos
 
 O projeto é separado em 4 módulos:
