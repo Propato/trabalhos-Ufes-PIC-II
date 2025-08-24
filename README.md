@@ -1,5 +1,9 @@
 # Prótese Robótica de Mão
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp" /> <br/>
+</p>
+
 Este é o resultado do projeto desenvolvido na Disciplina Projeto Integrado de Computação II.
 
 O projeto consiste em uma integração completa de Hardware e Software desenvolvido pelo grupo para desenvolver uma prótese de mão funcional e com independência dos movimentos entre os dedos, com 3 graus de liberdade, executando a flexão/extensão nas três articulações (metacarpofalângica, interfalângica proximal, interfalângica distal).
