@@ -14,7 +14,8 @@ A mão é controlada por um aplicativo de celular, onde é possível executar ge
 
 <div align="center">
   <img src="https://github.com/Propato/trabalhos-Ufes-PIC-II/blob/main/assets/screenshot_1.png" alt="" width="30%"/>
-  <img src="https://github.com/Propato/trabalhos-Ufes-PIC-IIblob/main/assets/screenshot_2.png" alt="" width="30%"/>
+  <img src="https://github.com/Propato/trabalhos-Ufes-PIC-II/blob/main/assets/screenshot_2.png" alt="" width="30%"/>
+  <img src="https://github.com/Propato/trabalhos-Ufes-PIC-II/blob/main/assets/screenshot_3.png" alt="" width="30%"/>
 </div>
 
 ## Módulos
