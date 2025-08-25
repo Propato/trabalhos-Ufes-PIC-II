@@ -1,0 +1,6 @@
+[submodule "app_protese_robotica_de_mao"]
+	path = app_protese_robotica_de_mao
+	url = https://github.com/jcquadros/app_protese_robotica_de_mao.git
+[submodule "controlador-protese-robotica-de-mao"]
+	path = controlador-protese-robotica-de-mao
+	url = https://github.com/jcquadros/controlador-protese-robotica-de-mao.git
