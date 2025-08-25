@@ -1,9 +1,9 @@
 # Prótese Robótica de Mão
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter" alt="Ícones de Dart & Flutter"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,cpp" />
+  <img src="https://skillicons.dev/icons?i=vscode,cpp" alt="Ícone de C++" />
 </p>
 
 Este é o resultado do projeto desenvolvido na Disciplina Projeto Integrado de Computação II.
@@ -12,12 +12,16 @@ O projeto consiste em uma integração completa de Hardware e Software desenvolv
 
 Um ESP32 controla 5 servo motores que tensiona e relaxam um fio de pesca para realizar a flexão e, em conjunto com elásticos, realizar a extensão. Há também um sensor de pressão na palma da mão para detectar quando a mão segura algum objeto e controlar o movimento dos dedos.
 
+<div align="center">
+    <img src="./Circuito/assets/diagrama.jpeg" width="80%" alt="Diagrama do Circuito"/>
+</div>
+
 A mão é controlada por um aplicativo de celular, onde é possível executar gestos pré definidos, criar seus próprios gestos e utilizar comandos de voz para controlar a mão.
 
-<div center>
-  <img src="./assets/screenshot_1.png" alt="" width="30%"/>
-  <img src="./assets/screenshot_2.png" alt="" width="30%"/>
-  <img src="./assets/screenshot_3.png" alt="" width="30%"/>
+<div align="center">
+  <img src="./assets/screenshot_1.png" alt="Tela de Gestos Salvos" width="30%"/>
+  <img src="./assets/screenshot_2.png" alt="Tela de Gestos Personalizáveis" width="30%"/>
+  <img src="./assets/screenshot_3.png" alt="Tela de Comando de voz" width="30%"/>
 </div>
 
 ## Módulos
@@ -58,6 +62,13 @@ Veja com mais detalhes em: [Controlador ESP32](github.com/)
 Desenvolvido com Dart e Flutter, o aplicativo se conecta ao ESP32 pelo Bluetooth e possibilita ao usuário enviar comandos de gestos pré definidos, criar seus próprios gestos, controlar dedos individualmente e executar os gestos salvos a partir de comandos de voz.
 
 Veja com mais detalhes em: [Aplicativo](github.com/)
+
+<!-- ## Projeto Completo
+
+<div center>
+    <img src="./Circuito/assets/diagrama.jpeg" width="40%" alt="Diagrama do Circuito"/>
+    <img src="./Circuito/assets/diagrama.jpeg" width="40%" alt="Diagrama do Circuito"/>
+</div> -->
 
 ## Equipe
 
