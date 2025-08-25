@@ -12,26 +12,30 @@ O projeto consiste em uma integração completa de Hardware e Software desenvolv
 
 Um ESP32 controla 5 servo motores que tensiona e relaxam um fio de pesca para realizar a flexão e, em conjunto com elásticos, realizar a extensão. Há também um sensor de pressão na palma da mão para detectar quando a mão segura algum objeto e controlar o movimento dos dedos.
 
-<div align="center">
-    <img src="./Circuito/assets/schematics.png" width="80%" alt="Diagrama do Circuito"/>
-</div>
-
 A mão é controlada por um aplicativo de celular, onde é possível executar gestos pré definidos, criar seus próprios gestos e utilizar comandos de voz para controlar a mão.
+
+https://github.com/user-attachments/assets/fb7e4de5-c45f-4589-a4b7-9bfb23c6c3cd
+
+## Módulos
+
+O projeto é separado em 4 módulos:
+
+-   [Software do App Mobile](#App)
+-   [Estrutura da mão](#Estrutura)
+-   [Circuito eletrônico](#Circuito)
+-   [Software do controlador (ESP32)](#Controlador)
+
+### App
+
+Desenvolvido com Dart e Flutter, o aplicativo se conecta ao ESP32 pelo Bluetooth e possibilita ao usuário enviar comandos de gestos pré definidos, criar seus próprios gestos, controlar dedos individualmente e executar os gestos salvos a partir de comandos de voz.
+
+Veja com mais detalhes em: [Aplicativo](https://github.com/jcquadros/app_protese_robotica_de_mao)
 
 <div align="center">
   <img src="./assets/screenshot_1.png" alt="Tela de Gestos Salvos" width="30%"/>
   <img src="./assets/screenshot_2.png" alt="Tela de Gestos Personalizáveis" width="30%"/>
   <img src="./assets/screenshot_3.png" alt="Tela de Comando de voz" width="30%"/>
 </div>
-
-## Módulos
-
-O projeto é separado em 4 módulos:
-
--   [Estrutura da mão](#Estrutura)
--   [Circuito eletrônico](#Circuito)
--   [Software do controlador (ESP32)](#Controlador)
--   [Software do App Mobile](#App)
 
 ### Estrutura
 
@@ -47,6 +51,10 @@ Foi confeccionada uma placa de circuito para conectar o ESP32 aos motores, fonte
 
 Veja com mais detalhes em: [Circuito](./Circuito/)
 
+<div align="center">
+    <img src="./Circuito/assets/schematics.png" width="80%" alt="Diagrama do Circuito"/>
+</div>
+
 ### Controlador
 
 Este é o Sistema do ESP32. Desenvolvido com C++ através da plataforma Arduino IDE.
@@ -56,12 +64,6 @@ Através de um JSON recebido pelo aplicativo mobile através do Bluetooth, a mã
 E assim, enviando os ângulos para os dedos correspondentes, verificando a pressão no sensor da palma para confirmar que não há objetos na mão bloqueando a flexão dos dedos.
 
 Veja com mais detalhes em: [Controlador ESP32](https://github.com/jcquadros/controlador-protese-robotica-de-mao)
-
-### App
-
-Desenvolvido com Dart e Flutter, o aplicativo se conecta ao ESP32 pelo Bluetooth e possibilita ao usuário enviar comandos de gestos pré definidos, criar seus próprios gestos, controlar dedos individualmente e executar os gestos salvos a partir de comandos de voz.
-
-Veja com mais detalhes em: [Aplicativo](https://github.com/jcquadros/app_protese_robotica_de_mao)
 
 ## Equipe
 
