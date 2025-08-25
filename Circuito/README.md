@@ -7,7 +7,7 @@ Os motores utilizados foram MG996R e o Sensor de Pressão foi o PFG FSR400.
 ## Diagrama do Circuito
 
 <div align="center">
-    <img src="./assets/diagrama.jpeg" width="80%" alt="Diagrama do Circuito"/>
+    <img src="./assets/schematics.png" width="80%" alt="Diagrama do Circuito"/>
 </div>
 
 ## Circuito Desenvolvido

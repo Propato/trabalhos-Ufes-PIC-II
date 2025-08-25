@@ -13,7 +13,7 @@ O projeto consiste em uma integração completa de Hardware e Software desenvolv
 Um ESP32 controla 5 servo motores que tensiona e relaxam um fio de pesca para realizar a flexão e, em conjunto com elásticos, realizar a extensão. Há também um sensor de pressão na palma da mão para detectar quando a mão segura algum objeto e controlar o movimento dos dedos.
 
 <div align="center">
-    <img src="./Circuito/assets/diagrama.jpeg" width="80%" alt="Diagrama do Circuito"/>
+    <img src="./Circuito/assets/schematics.png" width="80%" alt="Diagrama do Circuito"/>
 </div>
 
 A mão é controlada por um aplicativo de celular, onde é possível executar gestos pré definidos, criar seus próprios gestos e utilizar comandos de voz para controlar a mão.
