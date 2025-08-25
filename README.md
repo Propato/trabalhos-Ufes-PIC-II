@@ -1,7 +1,9 @@
 # Prótese Robótica de Mão
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp" /> <br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,cpp" />
 </p>
 
 Este é o resultado do projeto desenvolvido na Disciplina Projeto Integrado de Computação II.
