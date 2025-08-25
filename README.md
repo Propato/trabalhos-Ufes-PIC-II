@@ -55,20 +55,13 @@ Através de um JSON recebido pelo aplicativo mobile através do Bluetooth, a mã
 
 E assim, enviando os ângulos para os dedos correspondentes, verificando a pressão no sensor da palma para confirmar que não há objetos na mão bloqueando a flexão dos dedos.
 
-Veja com mais detalhes em: [Controlador ESP32](github.com/)
+Veja com mais detalhes em: [Controlador ESP32](https://github.com/jcquadros/controlador-protese-robotica-de-mao)
 
 ### App
 
 Desenvolvido com Dart e Flutter, o aplicativo se conecta ao ESP32 pelo Bluetooth e possibilita ao usuário enviar comandos de gestos pré definidos, criar seus próprios gestos, controlar dedos individualmente e executar os gestos salvos a partir de comandos de voz.
 
-Veja com mais detalhes em: [Aplicativo](github.com/)
-
-<!-- ## Projeto Completo
-
-<div center>
-    <img src="./Circuito/assets/diagrama.jpeg" width="40%" alt="Diagrama do Circuito"/>
-    <img src="./Circuito/assets/diagrama.jpeg" width="40%" alt="Diagrama do Circuito"/>
-</div> -->
+Veja com mais detalhes em: [Aplicativo](https://github.com/jcquadros/app_protese_robotica_de_mao)
 
 ## Equipe
 
