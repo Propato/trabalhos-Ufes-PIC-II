@@ -70,6 +70,17 @@ E assim, enviando os ângulos para os dedos correspondentes, verificando a press
 
 Veja com mais detalhes em: [Controlador ESP32](https://github.com/jcquadros/controlador-protese-robotica-de-mao)
 
+### 🎥 Vídeo do Pitch
+
+Assista ao vídeo de apresentação do projeto no YouTube clicando na imagem abaixo:
+
+<p align="center">
+  <a href="https://youtu.be/Zz2Sscj2LH4" target="_blank">
+    <img src="https://img.youtube.com/vi/Zz2Sscj2LH4/0.jpg" alt="Pitch da Prótese Robótica de Mão" width="70%"/>
+  </a>
+</p>
+
+
 ## Equipe
 
 | [<img src="https://avatars.githubusercontent.com/u/84464307?s=400&u=e9879bb9f28ab7ca900513a3323bcf3fcbfcd68e&v=4" width=110 alt="David Propato"><br><sub>David Propato</sub>](https://github.com/Propato) | [<img src="https://avatars.githubusercontent.com/u/72812365?v=4" width=110 alt="Gustavo Sarti"><br><sub>Gustavo Sarti</sub>](https://github.com/gustavosarti) | [<img src="https://avatars.githubusercontent.com/u/109080878?v=4" width=110 alt="Jullie Quadros"><br><sub>Jullie Quadros</sub>](https://github.com/jcquadros) | [<img src="https://avatars.githubusercontent.com/u/69646100?v=4" width=110 alt="Mateus Sartorio"><br><sub>Mateus Sartorio</sub>](https://github.com/mateus-sartorio) |
