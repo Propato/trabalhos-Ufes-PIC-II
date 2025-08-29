@@ -84,7 +84,7 @@ Assista ao vídeo de apresentação do projeto no YouTube clicando na imagem aba
 
 Acesse a apresentação completa do projeto no link abaixo:
 
-[📄 Mão Robótica.pdf](./cocumento/Mão%20Robótica.pdf)
+[📄 Mão Robótica.pdf](./documento/Mão%20Robótica.pdf)
 
 
 ## Equipe
