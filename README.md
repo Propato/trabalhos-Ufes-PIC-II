@@ -21,6 +21,28 @@ A mão é controlada por um aplicativo de celular, onde é possível executar ge
 
 </div>
 
+---
+
+## 🌟 Motivação  
+
+A limitação das funções da mão compromete a autonomia de milhões de pessoas.  
+
+Nosso projeto busca desenvolver uma mão robótica acessível e funcional, unindo tecnologia, inclusão e aprendizado.  
+
+Queremos tornar a robótica uma ferramenta real de transformação social.  
+
+---
+
+## 💡 A solução  
+
+- **Uma mão robótica acessível e intuitiva, controlada pela voz.**  
+- **Quebrando a Barreira do Custo** – Eliminamos a necessidade de sensores mioelétricos caros.  
+- **Controle por Voz** – Comandos simples e diretos.  
+- **Movimentos Realistas** – Design inspirado na anatomia humana.  
+- **Plataforma Aberta** – A mesma tecnologia pode ser aplicada em robótica industrial, automação e muito mais.  
+
+---
+
 ### 🎥 Vídeo do Pitch
 
 Assista ao vídeo de apresentação do projeto no YouTube clicando na imagem abaixo:
@@ -37,16 +59,16 @@ Acesse a apresentação completa do projeto no link abaixo:
 
 [📄 Mão Robótica.pdf](./documento/Mão%20Robótica.pdf)
 
-</div>
+---
 
 ## Módulos
 
 O projeto é separado em 4 módulos:
 
--   [Software do App Mobile](#App)
--   [Estrutura da mão](#Estrutura)
--   [Circuito eletrônico](#Circuito)
--   [Software do controlador (ESP32)](#Controlador)
+-   [Software do App Mobile](#app)
+-   [Estrutura da mão](#estrutura)
+-   [Circuito eletrônico](#circuito)
+-   [Software do controlador (ESP32)](#controlador)
 
 ### App
 
@@ -88,8 +110,23 @@ E assim, enviando os ângulos para os dedos correspondentes, verificando a press
 
 Veja com mais detalhes em: [Controlador ESP32](https://github.com/jcquadros/controlador-protese-robotica-de-mao)
 
+---
 
 ## Equipe
 
 | [<img src="https://avatars.githubusercontent.com/u/84464307?s=400&u=e9879bb9f28ab7ca900513a3323bcf3fcbfcd68e&v=4" width=110 alt="David Propato"><br><sub>David Propato</sub>](https://github.com/Propato) | [<img src="https://avatars.githubusercontent.com/u/72812365?v=4" width=110 alt="Gustavo Sarti"><br><sub>Gustavo Sarti</sub>](https://github.com/gustavosarti) | [<img src="https://avatars.githubusercontent.com/u/109080878?v=4" width=110 alt="Jullie Quadros"><br><sub>Jullie Quadros</sub>](https://github.com/jcquadros) | [<img src="https://avatars.githubusercontent.com/u/69646100?v=4" width=110 alt="Mateus Sartorio"><br><sub>Mateus Sartorio</sub>](https://github.com/mateus-sartorio) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+---
+
+## 📌 Conclusão  
+
+Este projeto vai além de um protótipo acadêmico: ele mostra como a união de **hardware acessível, software inteligente e design inspirado na anatomia humana** pode gerar soluções reais e de impacto social.  
+
+A **Prótese Robótica de Mão** entrega movimentos independentes, controle intuitivo por aplicativo e comandos de voz, além de um custo reduzido ao eliminar tecnologias caras como sensores mioelétricos. Isso torna a solução **mais próxima das pessoas que realmente precisam dela**.  
+
+Além do impacto social, o projeto também serve como **plataforma aberta e extensível**, capaz de ser aplicada em outros cenários, como **robótica industrial, automação e pesquisa acadêmica**.  
+
+Com isso, buscamos mostrar que a robótica não é apenas uma área de alta tecnologia, mas também uma **ferramenta de inclusão, acessibilidade e transformação social**, aproximando inovação de quem mais precisa dela.  
+
+---
