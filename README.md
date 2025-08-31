@@ -21,6 +21,24 @@ A mão é controlada por um aplicativo de celular, onde é possível executar ge
 
 </div>
 
+### 🎥 Vídeo do Pitch
+
+Assista ao vídeo de apresentação do projeto no YouTube clicando na imagem abaixo:
+
+<p align="center">
+  <a href="https://youtu.be/Zz2Sscj2LH4" target="_blank">
+    <img src="https://img.youtube.com/vi/Zz2Sscj2LH4/0.jpg" alt="Pitch da Prótese Robótica de Mão" width="70%"/>
+  </a>
+</p>
+
+### 📄 Apresentação final:
+
+Acesse a apresentação completa do projeto no link abaixo:
+
+[📄 Mão Robótica.pdf](./documento/Mão%20Robótica.pdf)
+
+</div>
+
 ## Módulos
 
 O projeto é separado em 4 módulos:
@@ -69,22 +87,6 @@ Através de um JSON recebido pelo aplicativo mobile através do Bluetooth, a mã
 E assim, enviando os ângulos para os dedos correspondentes, verificando a pressão no sensor da palma para confirmar que não há objetos na mão bloqueando a flexão dos dedos.
 
 Veja com mais detalhes em: [Controlador ESP32](https://github.com/jcquadros/controlador-protese-robotica-de-mao)
-
-### 🎥 Vídeo do Pitch
-
-Assista ao vídeo de apresentação do projeto no YouTube clicando na imagem abaixo:
-
-<p align="center">
-  <a href="https://youtu.be/Zz2Sscj2LH4" target="_blank">
-    <img src="https://img.youtube.com/vi/Zz2Sscj2LH4/0.jpg" alt="Pitch da Prótese Robótica de Mão" width="70%"/>
-  </a>
-</p>
-
-### 📄 Apresentação final:
-
-Acesse a apresentação completa do projeto no link abaixo:
-
-[📄 Mão Robótica.pdf](./documento/Mão%20Robótica.pdf)
 
 
 ## Equipe
